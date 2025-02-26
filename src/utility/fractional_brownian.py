@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 31 13:33:44 2024
-
-@author: jvilp
-"""
-
 from typing import Iterable, List, Literal, Tuple, Union
 import pandas as pd
 import numpy as np
